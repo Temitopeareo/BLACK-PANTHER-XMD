@@ -29,7 +29,7 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingibrahimtech/Black-panther-md-x)[DEPLOY BLACK PANTHER MD X5: LATEST]
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/IBRAHIM-MD/)[DEPLOY BLACK PANTHER MD X5: LATEST]
 
 <br>
 
